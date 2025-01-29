@@ -57,9 +57,9 @@ const Offers = () => {
             comfort or style.
           </Typography>
         </Box>
-        <Box sx={{ width: "97vw", border: "1px solid black",display:"flex" }}>
-          <Box>
-            <Box sx={{ width: "31.927vw", textAlign: "center" }}>
+        <Box sx={{ width: "100vw", border: "1px solid black",display:"flex",backgroundColor:"red" }}>
+          <Box sx={{marginLeft:"-12.400vw" }} >
+            <Box sx={{ width: "31.927vw", textAlign: "center"}}>
               {/* Background image setup */}
               <Box
                 sx={{
